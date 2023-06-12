@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1090072552325",
+    "project_id": "shred-2e198",
+    "storage_bucket": "shred-2e198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090072552325:android:5121ff7bdde9ad900fdaec",
+        "android_client_info": {
+          "package_name": "com.example.shded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090072552325-7k0i9birql38hk17u9cmp9gakll3j9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnxq1_GrA3PixNgu00jLsWL8o-pIl2SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090072552325-7k0i9birql38hk17u9cmp9gakll3j9vc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090072552325-ej0n5n2c9g7466aj4ulubf66ettcgdbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
